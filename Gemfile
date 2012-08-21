@@ -20,3 +20,4 @@ gem "cancan", ">= 1.6.8"
 gem "rolify", ">= 3.2.0"
 gem "therubyracer", :group => :assets, :platform => :ruby
 gem 'debugger'
+gem 'haml-rails'

@@ -88,6 +88,12 @@ GEM
     ffi (1.1.5)
     gherkin (2.11.2)
       json (>= 1.4.6)
+    haml (3.1.7)
+    haml-rails (0.3.4)
+      actionpack (~> 3.0)
+      activesupport (~> 3.0)
+      haml (~> 3.0)
+      railties (~> 3.0)
     hike (1.2.1)
     i18n (0.6.0)
     journey (1.0.4)
@@ -194,6 +200,7 @@ DEPENDENCIES
   devise (>= 2.1.2)
   email_spec (>= 1.2.1)
   factory_girl_rails (>= 4.0.0)
+  haml-rails
   jquery-rails
   launchy (>= 2.1.2)
   rails (= 3.2.8)
